@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <listeners>
+        <listener class-name="api.utilities.ExtentReportManager"/>
+    </listeners>
+
+
+    <test verbose="2" preserve-order="true" name="PetTests">
+
+        <classes>
+            <!--<class name="api.test.DataDrivenTests">
+                <methods>
+                    <include name="testPostUser"/>
+                    <include name="testGetTestUser"/>
+                    <include name="testDeleteTestUser"/>
+                </methods>
+            </class>-->
+
+            <class name="api.test.UserTestsWithProperties">
+                <methods>
+                    <include name="testPostUser"/>
+                    <include name="testGetUserByName"/>
+                    <include name="testUpdateUserByName"/>
+                    <include name="testDeleteUserByName"/>
+                </methods>
+            </class>
+
+            <class name="api.test.UserTests">
+                <methods>
+                    <include name="testPostUser"/>
+                    <include name="testGetUserByName"/>
+                    <include name="testUpdateUserByName"/>
+                    <include name="testDeleteUserByName"/>
+                </methods>
+            </class>
+
+            <class name="api.test.StoreTests">
+                <methods>
+                    <include name="testGetInventory"/>
+                    <include name="testPostStoreOrder"/>
+                    <include name="testGetStoreOrder"/>
+                    <include name="testDeleteStoreOrder"/>
+                    <include name="testDeleteStoreOrderNotFound"/>
+                </methods>
+            </class>
+
+            <class name="api.test.PetTests">
+                <methods>
+                    <include name="testPostPet"/>
+                    <include name="testPetImgUpload"/>
+                    <include name="testGetPetById"/>
+                    <include name="testUpdatePet"/>
+                    <include name="testFindByStatus"/>
+                    <include name="testDeletePet"/>
+                    <include name="testDeleteDeletedPet"/>
+
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

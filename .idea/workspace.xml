@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7269480e-8a43-4ab4-b13b-49fe44731abf" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="36OQ9Vf2Qg7MIcYNTJudUSgCrP8" />
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortByType" value="true" />
+    <option name="sortKey" value="BY_TYPE" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven.FrameworkProjectV2 [test].executor": "Run",
+    "Maven.FrameworkProjectV2.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TestNG./Users/taras/Documents/Personal/Learn/RestAssured/restAssTestNG/FrameworkProjectV2/testng.xml.executor": "Run",
+    "TestNG.DataDrivenTests.executor": "Run",
+    "TestNG.DataDrivenTests.testPostUser.executor": "Run",
+    "TestNG.PetTests.executor": "Run",
+    "TestNG.PetTests.testGetPetById.executor": "Run",
+    "TestNG.PetTests.testPetImgUpload (1).executor": "Run",
+    "TestNG.PetTests.testPetImgUpload (2).executor": "Run",
+    "TestNG.PetTests.testPetImgUpload.executor": "Run",
+    "TestNG.PetTests.testPostPet (1).executor": "Run",
+    "TestNG.PetTests.testPostPet.executor": "Run",
+    "TestNG.StoreTests.executor": "Run",
+    "TestNG.StoreTests.testGetInventory.executor": "Run",
+    "TestNG.StoreTests.testPostStoreOrder.executor": "Run",
+    "TestNG.UserTests (1).executor": "Run",
+    "TestNG.UserTests.executor": "Run",
+    "TestNG.UserTests.testGetUserByName (1).executor": "Run",
+    "TestNG.UserTests.testGetUserByName.executor": "Run",
+    "TestNG.UserTests.testPostUser (1).executor": "Run",
+    "TestNG.UserTests.testPostUser.executor": "Run",
+    "TestNG.UserTestsWithProperties.executor": "Run",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/taras/Documents/Personal/Learn/RestAssured/restAssTestNG/FrameworkProjectV2"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/testData" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/testData" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="api.test" />
+      <recent name="api.endpoints" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Maven.FrameworkProjectV2 [test]">
+    <configuration name="FrameworkProjectV2 [test]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="cmdOptions" />
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="test" />
+              </list>
+            </option>
+            <option name="multimoduleDir" />
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="projectsCmdOptionValues">
+              <list />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="PetTests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="FrameworkProjectV2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="api.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="api.test" />
+      <option name="MAIN_CLASS_NAME" value="api.test.PetTests" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PetTests.testGetPetById" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="FrameworkProjectV2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="api.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="api.test" />
+      <option name="MAIN_CLASS_NAME" value="api.test.PetTests" />
+      <option name="METHOD_NAME" value="testGetPetById" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PetTests.testPetImgUpload" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="FrameworkProjectV2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="api.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="api.test" />
+      <option name="MAIN_CLASS_NAME" value="api.test.PetTests" />
+      <option name="METHOD_NAME" value="testPetImgUpload" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserTestsWithProperties" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="FrameworkProjectV2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="api.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="api.test" />
+      <option name="MAIN_CLASS_NAME" value="api.test.UserTestsWithProperties" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/taras/Documents/Personal/Learn/RestAssured/restAssTestNG/FrameworkProjectV2/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="FrameworkProjectV2" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Maven.FrameworkProjectV2 [test]" />
+      <item itemvalue="TestNG./Users/taras/Documents/Personal/Learn/RestAssured/restAssTestNG/FrameworkProjectV2/testng.xml" />
+      <item itemvalue="TestNG.PetTests" />
+      <item itemvalue="TestNG.PetTests.testGetPetById" />
+      <item itemvalue="TestNG.PetTests.testPetImgUpload" />
+      <item itemvalue="TestNG.UserTestsWithProperties" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG./Users/taras/Documents/Personal/Learn/RestAssured/restAssTestNG/FrameworkProjectV2/testng.xml" />
+        <item itemvalue="TestNG.UserTestsWithProperties" />
+        <item itemvalue="TestNG.PetTests" />
+        <item itemvalue="TestNG.PetTests.testGetPetById" />
+        <item itemvalue="TestNG.PetTests.testPetImgUpload" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7269480e-8a43-4ab4-b13b-49fe44731abf" name="Changes" comment="" />
+      <created>1764874990132</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1764874990132</updated>
+    </task>
+    <servers />
+  </component>
+</project>
