@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7269480e-8a43-4ab4-b13b-49fe44731abf" name="Changes" comment="" />
+    <list default="true" id="7269480e-8a43-4ab4-b13b-49fe44731abf" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/test/java/api/test/PetTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/api/test/PetTests.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,9 +19,24 @@
       </list>
     </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "tyaremchuk"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/tyaremchuk/FrameworkProjectV2.git",
+    "accountId": "abc83de5-e8bb-4867-8a6b-aebe60b2b227"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="36OQ9Vf2Qg7MIcYNTJudUSgCrP8" />
   <component name="ProjectViewState">
     <option name="flattenPackages" value="true" />
@@ -33,6 +50,7 @@
     "Maven.FrameworkProjectV2 [test].executor": "Run",
     "Maven.FrameworkProjectV2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "TestNG./Users/taras/Documents/Personal/Learn/RestAssured/restAssTestNG/FrameworkProjectV2/testng.xml.executor": "Run",
     "TestNG.DataDrivenTests.executor": "Run",
     "TestNG.DataDrivenTests.testPostUser.executor": "Run",
@@ -53,6 +71,7 @@
     "TestNG.UserTests.testPostUser (1).executor": "Run",
     "TestNG.UserTests.testPostUser.executor": "Run",
     "TestNG.UserTestsWithProperties.executor": "Run",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/taras/Documents/Personal/Learn/RestAssured/restAssTestNG/FrameworkProjectV2"
   }
@@ -198,6 +217,13 @@
         <item itemvalue="TestNG.PetTests.testPetImgUpload" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-26cb7f24e5b0-intellij.indexing.shared.core-IU-253.29346.138" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
